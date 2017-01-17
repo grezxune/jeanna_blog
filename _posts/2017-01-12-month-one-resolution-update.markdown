@@ -13,49 +13,49 @@ I’ve discovered that I am not cut out for the programmers life...There is no w
 
 However, that’s only another thing about myself that I can strive to improve! Also, I’m only doing this to be knowledgeable of the mechanics behind programming and keeping up with a website/blog. So far, I’ve learned a lot.
 
-The goals I still want to accomplish for this month’s resolution are:
+### The goals I still want to accomplish for this month’s resolution are as follows:
 
-Make my blog look nice:
-I want it to be marketable-not that I’m trying to sell it-but I’d like it to be pleasant to look at, and have a general design.
-Have my posts be linkable:
-This means I can have interactive pieces and parts to some of my posts. For example: if I talk about how I’m learning how to make a blog with Jekyll, I can link to their website.
-Have embedded Videos:
-This is exactly what you think; video blogs. I want to be able to put a youtube video right on my page so you don’t have to go to a new website to watch something that I post.
-Have a working contact page:
-Yep, you can talk to me! I will be avoiding a comment section for now because I don’t think my little heart could handle it….but I would love to hear from people who have ideas for a blog, or just want to let me know they’re reading!
+##### Make my blog look nice:
+<i>I want it to be marketable-not that I’m trying to sell it-but I’d like it to be pleasant to look at, and have a general design.</i>
 
-For next month, I’ve decided to do the Hair and Make-up  month. Now, I’ve been actually doing research on how to do my make up and what make ups are better, and what colors go with my features and whatever….and I’ve come to a couple conclusions, so here’s my pros and cons list….
+##### Have my posts be linkable:
+<i>This means I can have interactive pieces and parts to some of my posts. For example: if I talk about how I’m learning how to make a blog with Jekyll, I can link to their website.</i>
+
+##### Have embedded Videos:
+<i>This is exactly what you think; video blogs. I want to be able to put a youtube video right on my page so you don’t have to go to a new website to watch something that I post.</i>
+
+##### Have a working contact page:
+<i>Yep, you can talk to me! I will be avoiding a comment section for now because I don’t think my little heart could handle it….but I would love to hear from people who have ideas for a blog, have advice or suggestions on what I could change on my website, or just want to let me know they’re reading!</i>
+
+<strong>For next month;</strong> I’ve decided to do the Hair and makeup  month. Now, I’ve been actually doing research on how to do my makeup and what makeup products are better, and what colors go with my features and whatever….and I’ve come to a couple conclusions, so here’s my pros and cons list….
+
+### Pros:
+1. I’ll look pretty after I figure it out
+2. It’s a new skill that I should have already known how to do…
+3. The boyfriend will love it
+4. It’s something else to talk about
+5. Forces me to get into a better morning routine
+6. Self esteem will go up
+
+### Cons:
+1. Expensive
+2. I think I’m going to hate my face without makeup
+3. I’ll look like a clown until I get it down <i>(see what i did there)</i>
+4. it will take a while to figure it out, which could get frustrating
+5. I will have to make time to do it in the morning
+6. I will also have to make sure it’s all off at night
+7. Dealing with acne caused by makeup is never fun...
+8. Going to the gym will be awful and embarrassing...I used to make fun of the girls who worked out with a full face on.
+9. Can’t touch my face like normal...seriously, I don't think you understand how much I touch my face...
+10. The dreaded, “you look tired” or “are you sick?” on days that I don't wear as much, or any makeup
 
 
-
-Pros:
-I’ll look pretty after I figure it out
-It’s a new skill that I should have already known how to do…
-The boyfriend will love it
-It’s something else to talk about
-Forces me to get into a better morning routine
-Self esteem will go up
-
-
-Cons:
-Expensive
-I’m going to hate my face without makeup
-I’ll look like a clown until I get it down
-Take a while to figure it out
-Have to make time to do it in the morning
-Make sure it’s all off at night
-Dealing with acne
-Going to the gym will be awful
-Can’t touch my face like normal
-The dreaded, “you look tired” or “are you sick?”
-
-
-As you can see, I have more cons….makes me seem pretty closed minded...I’m really not, I swear.
+<i>As you can see, I have more cons than pros….makes me seem pretty closed minded...I’m really not, I swear.</i>
 
 This is just something that I have never done before. I, like all girls had a makeup phase, but it lasted about 6 months and all I had was some crappy green and blue eyeshadow from Claire’s, and some eyeliner that I had NO idea how to use...so that didn’t go too well. I consider myself blessed because once that phase ended, I didn’t feel the need to wear makeup anymore. I was very confident with how I looked and never looked past that.
 
-This doesn’t mean that everyone who wears makeup is not confident in their own skin. Some people wear it because it’s fun for them, others because it’s an added expression to their look. I am excited to try it out for a month and I think I’ll be doing some different looks. Definitely going to try and keep it subtle during the day for work...I don’t need to scare anybody… but maybe in the evenings I can try some winged eyes, or colored eye shadow.
+This doesn’t mean that everyone who wears makeup is not confident in their own skin. Some people wear it because it’s fun for them, others because it’s an added expression to their look. I am excited to try it out for a month and I think I’ll be doing some different looks. Definitely going to try and keep it subtle during the day for work...I don’t need to scare anybody… but maybe in the evenings I can try some winged eyes, or colored eye shadow...the possibilities are endless!
 
 Until next time:
-
-## “You miss 100% of the shots you don’t take” --The Great Wayne D. Gretzky
+### <i>“You miss 100% of the shots you don’t take”</i>
+-The Great Wayne D. Gretzky

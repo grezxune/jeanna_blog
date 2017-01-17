@@ -36,3 +36,4 @@ gems: [jekyll-paginate, jekyll-gist]
 # git status
 # git commit -m "note here"
 # git push
+# bundle exec jekyll serve
