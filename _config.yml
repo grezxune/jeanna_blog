@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Jeanna Diedrich
+tagline:          'my blog'
+description:      'A place to see progress'
+url:              jeannadiedrich.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jeanna J Diedrich'
+  url:            https://twitter.com/jeannajdee
 
 paginate:         5
 
@@ -23,6 +23,13 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/jeannadiedrich/jeanna_blog
 
 gems: [jekyll-paginate, jekyll-gist]
+
+
+# git status
+# git add .
+# git status
+# git commit -m "note here"
+# git push
