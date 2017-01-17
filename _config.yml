@@ -27,7 +27,8 @@ github:
 
 gems: [jekyll-paginate, jekyll-gist]
 
-
+# cd 
+# ls
 # git status
 # git add .
 # git status
